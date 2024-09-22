@@ -5,7 +5,11 @@
 
 # Project3-NationalTreasure
 
-National Parks Project Description: 
+## Project Team:
+
+Elamathi Elangovan, Yuteng Zhang, Glenn Purcell, Qianna Xu, Wilson Chira
+
+## Description: 
 
 The National Parks project is a web application that allows users to explore national parks across the United States. The application utilizes data from various sources including Kaggle and Data World to provide users with detailed information about each park including its location and activities.
 
@@ -13,7 +17,8 @@ The user interface is designed to be user-friendly and easy to navigate, allowin
 
 Overall, the National Parks project is an ideal tool for nature enthusiasts, hikers, and anyone looking to explore and learn more about the national parks of the United States and territories.
 
-# Data Sources
+
+## Data Sources
 
 ![image](https://user-images.githubusercontent.com/112281976/212980580-fbd127a3-cb95-4da6-95d2-337f83b97497.png)
 
@@ -25,16 +30,8 @@ Overall, the National Parks project is an ideal tool for nature enthusiasts, hik
 * Jinja2 -  is a templating engine for Python that allows for the separation of the presentation logic and the application logic. It is a powerful and flexible engine             that is often used with Flask to render templates and generate dynamic HTML pages.
 * MongoDB Compass: Allows users to easily interact with and manage their MongoDB databases without having to use the command line interface.
 
-# Setup
+## Setup
 
 * Build the Mongodb and collections by using the Dataframe_to_MongoDB_elaversion.ipynb.
 * in Visual Studio, select the app.py and in the command line execute by using Python app.py
 * Use http://127.0.0.1:5000/ in Google Chrome to render the the webpage. 
-
-# Project Team:
-
-The project team includes Elamathi Elangovan, Glenn Purcell, Qianna Xu, Wilson Chira, and Yuteng Zhang.
-
-
-
-
